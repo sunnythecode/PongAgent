@@ -1,4 +1,4 @@
-# Pong AI with Reinforcement Learning
+# Pong Agent with Reinforcement Learning
 
 This project implements an AI agent to play a version of Pong using **PyTorch** and **PyGame**, utilizing reinforcement learning concepts. The agent learns to control the left paddle and maximize its score over training epochs by interacting with the environment.
 
